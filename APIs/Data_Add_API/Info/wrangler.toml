@@ -1,0 +1,6 @@
+name = "info"
+main = "src/index.js"
+compatibility_date = "2022-09-26"
+kv_namespaces=[
+    { binding = "productdetail", id = "e1cf2dd6d2a941b5aab6f0baea2473b0" }
+]
